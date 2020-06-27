@@ -1,4 +1,4 @@
-# Text Generation
+# Song Generation
 
 ## Text generation using bidirectional LSTMs on a datset of 250 songs. 
 
